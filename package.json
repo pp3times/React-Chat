@@ -1,0 +1,28 @@
+{
+  "name": "React-Chat",
+  "version": "1.0.0",
+  "description": "React - Chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pp3times/React---Chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pp3times/React---Chat/issues"
+  },
+  "homepage": "https://github.com/pp3times/React---Chat#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "js-sha256": "^0.9.0",
+    "jwt-then": "^1.0.1",
+    "mongoose": "^5.11.19",
+    "nodemon": "^2.0.7"
+  }
+}
